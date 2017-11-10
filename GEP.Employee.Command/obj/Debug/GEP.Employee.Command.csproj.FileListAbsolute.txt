@@ -1,0 +1,6 @@
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.Command\bin\Debug\GEP.Employee.Command.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.Command\bin\Debug\GEP.Employee.Command.pdb
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.Command\obj\Debug\GEP.Employee.Command.csprojResolveAssemblyReference.cache
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.Command\obj\Debug\GEP.Employee.Command.csproj.CoreCompileInputs.cache
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.Command\obj\Debug\GEP.Employee.Command.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.Command\obj\Debug\GEP.Employee.Command.pdb

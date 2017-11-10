@@ -1,0 +1,17 @@
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\GEP.Employee.API.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\GEP.Employee.API.pdb
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\GEP.Employee.Command.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\Newtonsoft.Json.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\System.Net.Http.Formatting.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\System.Web.Http.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\System.Web.Http.WebHost.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\GEP.Employee.Command.pdb
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\Newtonsoft.Json.xml
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\System.Net.Http.Formatting.xml
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\System.Web.Http.xml
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\bin\Debug\System.Web.Http.WebHost.xml
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\obj\Debug\GEP.Employee.API.csprojResolveAssemblyReference.cache
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\obj\Debug\GEP.Employee.API.csproj.CoreCompileInputs.cache
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\obj\Debug\GEP.Employee.API.dll
+D:\Learning\2017\ASP.NET\GEP.Employee\GEP.Employee.API\obj\Debug\GEP.Employee.API.pdb
